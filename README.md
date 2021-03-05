@@ -1,4 +1,4 @@
-# Recommendations for Microsoft's New Movie Studio
+# Credit Card Defaulters Prediction and Analysis Project
 
 <img src="images/CC-Default1.png" style="width:550px;height:250px"/>
 
